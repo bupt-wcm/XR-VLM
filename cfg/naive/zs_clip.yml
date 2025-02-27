@@ -1,0 +1,19 @@
+EXP_NAME: CLIP-CUB-ViTB16
+DESCRIBE: none
+DATA:
+  INPUT:
+    SIZE_SCALE:
+      - 256
+      - 256
+    SIZE_IMAGE: 224
+    TRANS_NAME: 'CoOp'
+
+MODEL:
+  NAME: zs_clip
+  NET:
+    PROMPTS:
+      TYPE: base
+
+TRAINER:
+  MAX_EPOCHS: 0
+  DEVICE_ID: "'2, 3'"

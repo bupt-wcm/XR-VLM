@@ -1,0 +1,57 @@
+EXP_NAME: CLIP-CAR-RN50-woname
+DESCRIBE: CoOp-Shot16
+DATA:
+  INPUT:
+    SIZE_SCALE:
+      - 256
+      - 256
+    SIZE_IMAGE: &img_size 224
+    TRANS_NAME: CoOp
+
+
+  DATASET:
+    FEW_SHOT:
+      ENABLED: true
+      TRAIN_SHOT: 16
+      VALID_SHOT: -1
+
+  DATALOADER:
+    BATCH_SIZE: 32
+
+MODEL:
+  NAME: coop_clip
+  NET:
+    BACKBONE:
+      NAME: RN50
+    PROMPTS:
+      TYPE: coop_clip
+      PARAMS:
+        N_CTX: 16
+        CTX_INIT: false
+        IMG_SIZE:  *img_size
+        CSC: false
+        CLASS_TOKEN_POSITION: end
+
+  OPTIM:
+    clip_enabled: false
+    clip_val: 1.0
+    norm_type: 2.0
+    LR:
+      - 2.0e-3
+      - 2.0e-3
+    WEIGHT_DECAY:
+      - 5.0e-4
+      - 5.0e-4
+    MOMENTUM:
+      - 0.9
+      - 0.9
+  SCHED:
+    NAME: 'COSINE'
+    WARMUP:
+      SIZE: 1
+      MODE: 'constant'
+      VALUE: 1.0e-5
+
+TRAINER:
+  MAX_EPOCHS: 200
+  DEVICE_ID: 0,1

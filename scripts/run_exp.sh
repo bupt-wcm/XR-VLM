@@ -1,0 +1,1 @@
+python main.py --config ./cfg/mp_clip/single_xpr.yml --data cub
