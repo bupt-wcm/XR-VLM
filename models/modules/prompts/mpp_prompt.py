@@ -36,6 +36,7 @@ class MppPrompt(nn.Module):
         self.fix_ctx    = nn.Parameter(fix_vectors)  # to be optimized
 
         classnames      = [name.replace("_", " ") for name in classnames]
+        classnames      = [' '.join(word.capitalize() for word in text.split()) for text in classnames]
         name_lens       = [len(_tokenizer.encode(name)) for name in classnames]
 
         prompts         = [" ".join(["X"] * self.n_ctx) + " " + name + "." for name in classnames]

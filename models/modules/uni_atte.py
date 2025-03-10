@@ -9,11 +9,11 @@ class UniAttPooling(nn.Module):
         self.map_num = map_num
         self.softmax_scale = softmax_scale
         self.atte = nn.Sequential(
-            nn.BatchNorm1d(in_dim, momentum=0.01),
+            nn.BatchNorm1d(in_dim),
             nn.Conv1d(in_dim, map_num + 1, 1, 1, 0, bias=False),
         )
         self.post_bn = nn.Sequential(
-            nn.BatchNorm1d(map_num + 1, momentum=0.01),
+            nn.BatchNorm1d(map_num + 1),
             nn.ReLU(),
         )
 

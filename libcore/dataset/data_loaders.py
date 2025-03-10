@@ -49,7 +49,7 @@ def car_load_func(data_path, ):
 
 
 def dog_load_func(data_path, ):
-    images_path = 'images'
+    images_path = 'Images'
     ret = []
     for phase in ['train', 'test']:
         list_path = 'train_list.mat' if phase == 'train' else 'test_list.mat'
@@ -63,12 +63,13 @@ def dog_load_func(data_path, ):
 
 
 def air_load_func(data_path, ):
-    cprint('name is not mapped with id in the data load function of FGVC-aircraft.', 'red')
+    # cprint.info('name is not mapped with id in the data load function of FGVC-aircraft.')
     data_path = os.path.join(data_path, 'data')
     images_path = 'images'
     ret = []
-
-    label_names = {}
+    with open(os.path.join(data_path, 'variants.txt'), 'r') as f:
+        label_names = list(f.readlines())
+    label_names = {item.strip() : id for id, item in enumerate(label_names)} # fixed index
     for phase in ['trainval', 'test']:
         list_path = 'images_variant_' + phase + '.txt'
 
@@ -78,9 +79,7 @@ def air_load_func(data_path, ):
         for dd in temp_list:
             splits = dd.split(' ')
             img_name, lab_name = splits[0], ' '.join(splits[1:])
-            if lab_name not in label_names:
-                label_names[lab_name] = len(list(label_names.keys()))
-            gt_idx = label_names[lab_name]
+            gt_idx = label_names[lab_name.strip()]
             data_list.append((os.path.join(data_path, images_path, img_name + '.jpg'), gt_idx))
 
         ret.append(data_list)
@@ -113,8 +112,50 @@ def inat17_load_func(data_path, ):
 
     return tuple(ret)
 
+def nabird_load_func(data_path, ):
+
+    class_list = []
+    with open(os.path.join(data_path, 'classes.txt'), 'r') as f:
+        for line in f.readlines():
+            class_list.append(' '.join(line.split(' ')[1:]))
+
+    image_list = []
+    with open(os.path.join(data_path, 'images.txt'), 'r') as f:
+        for line in f.readlines():
+            image_list.append(line.split(' ')[1].strip())
+
+    train_test_split = []
+    with open(os.path.join(data_path, 'train_test_split.txt'), 'r') as f:
+        for line in f.readlines():
+            train_test_split.append(int(line.split(' ')[1]))
+
+    image_labels = []
+    with open(os.path.join(data_path, 'image_class_labels.txt'), 'r') as f:
+        for line in f.readlines():
+            image_labels.append(int(line.split(' ')[1]) - 1)
+
+    used_label = list(set(image_labels))
+    used_label = sorted(used_label)
+
+    train_list = []
+    valid_list = []
+    for idx, is_train in enumerate(train_test_split):
+        if is_train == 1:
+            train_list.append((os.path.join(data_path, 'images', image_list[idx]), used_label.index(image_labels[idx])))
+        else:
+            valid_list.append((os.path.join(data_path, 'images', image_list[idx]), used_label.index(image_labels[idx])))
+
+
+
+    # class_names = [class_list[i] for i in used_label]
+
+    # for cn in class_names:
+    #     print(cn.strip() + ',')
+    # exit(-1)
+    return train_list, valid_list
+
 
 load_func_dict = {
     'cub': cub_load_func, 'dog': dog_load_func, 'car': car_load_func, 'air': air_load_func,
-    'inat17': inat17_load_func,
+    'inat17': inat17_load_func, 'nabird': nabird_load_func
 }

@@ -1,5 +1,4 @@
 import os
-import torch
 import models
 import argparse
 
@@ -41,8 +40,6 @@ def set_up(args):
 
 
 if __name__ == '__main__':
-    # torch.autograd.set_detect_anomaly(True)
-    torch.set_float32_matmul_precision('highest')
     parser = argparse.ArgumentParser('MppCLIP')
     parser.add_argument('--data', type=str)
     parser.add_argument('--config', type=str, metavar='FILE')
@@ -56,8 +53,6 @@ if __name__ == '__main__':
     )
     args = parser.parse_args()
 
-    # torch.set_float32_matmul_precision('highest')
-    # pl.seed_everything(args.seed)
     if args.evaluate:
         valid_net(args)  # validate the learned network without DDP
         exit(0)

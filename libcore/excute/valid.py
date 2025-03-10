@@ -25,7 +25,7 @@ def valid_net(args):
 
     fgic_model = build_model(cfg.MODEL, cls_num)
     fgic_model.load_state_dict(
-        torch.load(cfg['best_path'], map_location='cpu')['state_dict']
+        torch.load(cfg['best_path'], map_location='cpu')['state_dict'], strict=False,
     )
 
     # build network

@@ -5,9 +5,14 @@ import torch.nn.functional as func
 from models.utils import load_clip_to_cpu
 from models.modules.tex_encoder import TexEncoder
 from models.modules.prompts.mpp_prompt import MppPrompt
+from models.modules.prompts.hc_prompt import HcPrompt
 
 from models.modules.vis_encoder import ProxyVisualEncoder
-from models.modules.classifier import XPaReClassifier, DeXPaReClassifier
+from models.modules.classifier import XPaReClassifier, LightXPaReClassifier
+
+# from models.modules.classifier.cprm_plain import XPaReClassifier_b as XPaReClassifier
+# from models.modules.classifier.cprm_plain import XPaReClassifier_cp as XPaReClassifier
+# from models.modules.classifier.cprm_plain import XPaReClassifier_cc as XPaReClassifier
 
 
 class SingleCpRM(nn.Module):
@@ -22,9 +27,16 @@ class SingleCpRM(nn.Module):
         self.cls_num            = cls_num
 
         # text branch
-        self.mp_prompts         = MppPrompt(
-            clip_model, net_cfg.PROMPTS.DATA_NAME.lower(), net_cfg.PROMPTS.PARAMS,
-        )
+        if net_cfg.PROMPTS.TYPE == 'mp_clip':
+            self.mp_prompts         = MppPrompt(
+                clip_model, net_cfg.PROMPTS.DATA_NAME.lower(), net_cfg.PROMPTS.PARAMS,
+            )
+        elif net_cfg.PROMPTS.TYPE == 'hc_clip':
+            self.mp_prompts         = HcPrompt(
+                clip_model, net_cfg.PROMPTS.DATA_NAME.lower(), net_cfg.PROMPTS.PARAMS,
+            )
+        else:
+            raise NotImplementedError('Unknown Prompt Type: %s' % net_cfg.PROMPTS.TYPE)
         self.tokenized_prompts  = self.mp_prompts.tokenized_prompts
         self.tex_encoder        = TexEncoder(clip_model)
         tex_dim                 = self.tex_encoder.text_projection.shape[-1]
@@ -38,21 +50,21 @@ class SingleCpRM(nn.Module):
         # shared by different classifiers and used for saving parameters or memories.
         feat_dim                = net_cfg.FC.FEAT_DIM
         reduce                  = net_cfg.FC.REDUCE
+        ind_norm                = net_cfg.FC.INDEPENDENT_NORM
+        de_flag                 = net_cfg.FC.DATA_EFFICIENT
+        fake_num                = net_cfg.FC.FAKE_NUM
         # cross-part classifier
-        self.cls_de = net_cfg.DATA_EFFICIENT
-        if self.cls_de:
-            self.xp_classifier      = DeXPaReClassifier(
-                img_dim, tex_dim, feat_dim, self.n_prompts, cls_num, self.map_num, reduce=reduce)
-        else:
-            self.xp_classifier      = XPaReClassifier(
-                img_dim, tex_dim, feat_dim, self.n_prompts, cls_num, self.map_num, reduce=reduce)
+        self.xp_classifier      = XPaReClassifier(
+            img_dim, tex_dim, feat_dim, self.n_prompts, cls_num, self.map_num,
+            reduce=reduce,
+            independent_norm=ind_norm,
+            fake_num=fake_num,
+            data_efficient=de_flag,
+        )
 
         # used for accelerate the inference speed.
         self.tf_updated = False
-        self.register_buffer(
-            'tex_f',
-            torch.zeros((net_cfg.PROMPTS.PARAMS.N_GROUP, cls_num, 512))
-        )
+        self.register_buffer('tex_f', None,)
 
         self.out_num = 1
         self.label_smooth       = net_cfg.LABEL_SMOOTH
@@ -63,9 +75,7 @@ class SingleCpRM(nn.Module):
 
     def tex_feature(self):
         prompts = self.mp_prompts()
-        n_g, n_s, n_fle, n_fix = (
-            self.mp_prompts.n_group, self.mp_prompts.n_split, self.mp_prompts.n_fle, self.mp_prompts.n_fix
-        )
+        n_g = self.mp_prompts.n_group
         prompts = prompts.reshape(n_g, self.cls_num, -1, prompts.shape[-1])
         tokenized_prompts = self.tokenized_prompts
         n_group, n_class, n_size, n_dim = prompts.shape
@@ -78,15 +88,17 @@ class SingleCpRM(nn.Module):
 
         img_f               = self.img_feature(im)
         tex_f               = self.tex_feature()
-        cprm_pred           = self.xp_classifier(img_f, tex_f)
+        cprm_pred, con_loss = self.xp_classifier(img_f, tex_f)
         cls_loss            = func.cross_entropy(cprm_pred, lb, label_smoothing=self.label_smooth)
-        return cls_loss, [cls_loss, ], [cprm_pred, ]
+
+        loss = cls_loss + con_loss
+        return loss, [cls_loss, con_loss], [cprm_pred, ]
 
     def inference(self, im, lb):
         if not self.tf_updated:
             self.tex_f      = self.tex_feature()  # side effect, set final_prompts to the tex_f
             self.tf_updated = True
         img_f               = self.img_feature(im)
-        cprm_pred           = self.xp_classifier(img_f, self.tex_f)
+        cprm_pred, _           = self.xp_classifier(img_f, self.tex_f)
         cls_loss            = func.cross_entropy(cprm_pred, lb, label_smoothing=self.label_smooth)
         return cls_loss, [cls_loss, ], [cprm_pred, ]

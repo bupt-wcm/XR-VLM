@@ -35,12 +35,11 @@ class ProxyVisualEncoder(nn.Module):
         self.out_dim            = clip_model.text_projection.shape[-1]
         self.pool_type          = net_cfg.NECK.TYPE
 
-        """
-        if 'RN' in net_cfg.BACKBONE.NAME:
-            for m in self.visual_backbone.modules():
-                if isinstance(m, nn.BatchNorm2d):
-                    m.track_running_stats = False
-        """
+        # if 'RN' in net_cfg.BACKBONE.NAME:
+        #     for m in self.visual_backbone.modules():
+        #         if isinstance(m, nn.BatchNorm2d):
+        #             m.track_running_stats = False
+
         self.prompt_emb         = None
         if self.visual_prompt:
             prompt_cfg = net_cfg.PROMPTS.PARAMS
