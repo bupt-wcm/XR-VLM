@@ -1,0 +1,1202 @@
+{
+    "Rose breasted Grosbeak": {
+        "Beak": "a photo of a sharp and conical Beak of class Rose breasted Grosbeak",
+        "Plumage": "a photo of a vibrant black and white Plumage of class Rose breasted Grosbeak",
+        "Eye": "a photo of a small and dark Eye of class Rose breasted Grosbeak",
+        "Legs/Feet": "a photo of short and strong Legs/Feet of class Rose breasted Grosbeak"
+    },
+    "Brandt Cormorant": {
+        "Beak": "a photo of a hooked and slightly curved Beak of class Brandt Cormorant",
+        "Plumage": "a photo of a dark and glossy Plumage of class Brandt Cormorant",
+        "Eye": "a photo of a bright blue Eye of class Brandt Cormorant",
+        "Legs/Feet": "a photo of webbed and powerful Legs/Feet of class Brandt Cormorant"
+    },
+    "Northern Waterthrush": {
+        "Beak": "a photo of a slender and pointed Beak of class Northern Waterthrush",
+        "Plumage": "a photo of a streaked brown and white Plumage of class Northern Waterthrush",
+        "Eye": "a photo of a dark and round Eye of class Northern Waterthrush",
+        "Legs/Feet": "a photo of long and thin Legs/Feet of class Northern Waterthrush"
+    },
+    "Cactus Wren": {
+        "Beak": "a photo of a long and slightly curved Beak of class Cactus Wren",
+        "Plumage": "a photo of a brown and white speckled Plumage of class Cactus Wren",
+        "Eye": "a photo of a small and dark Eye of class Cactus Wren",
+        "Legs/Feet": "a photo of strong and sturdy Legs/Feet of class Cactus Wren"
+    },
+    "Grasshopper Sparrow": {
+        "Beak": "a photo of a short and conical Beak of class Grasshopper Sparrow",
+        "Plumage": "a photo of a streaked brown and buff Plumage of class Grasshopper Sparrow",
+        "Eye": "a photo of a small and dark Eye of class Grasshopper Sparrow",
+        "Legs/Feet": "a photo of short and pinkish Legs/Feet of class Grasshopper Sparrow"
+    },
+    "Red breasted Merganser": {
+        "Beak": "a photo of a long and serrated Beak of class Red breasted Merganser",
+        "Plumage": "a photo of a colorful and iridescent Plumage of class Red breasted Merganser",
+        "Eye": "a photo of a bright red Eye of class Red breasted Merganser",
+        "Legs/Feet": "a photo of webbed and strong Legs/Feet of class Red breasted Merganser"
+    },
+    "Bay breasted Warbler": {
+        "Beak": "a photo of a short and pointed Beak of class Bay breasted Warbler",
+        "Plumage": "a photo of a striking chestnut and black Plumage of class Bay breasted Warbler",
+        "Eye": "a photo of a dark and round Eye of class Bay breasted Warbler",
+        "Legs/Feet": "a photo of slender and delicate Legs/Feet of class Bay breasted Warbler"
+    },
+    "Scissor tailed Flycatcher": {
+        "Beak": "a photo of a small and slender Beak of class Scissor tailed Flycatcher",
+        "Plumage": "a photo of a pale gray and white Plumage of class Scissor tailed Flycatcher",
+        "Eye": "a photo of a dark and round Eye of class Scissor tailed Flycatcher",
+        "Legs/Feet": "a photo of short and weak Legs/Feet of class Scissor tailed Flycatcher"
+    },
+    "Carolina Wren": {
+        "Beak": "a photo of a slender and slightly curved beak of class Carolina Wren",
+        "Plumage": "a photo of a rich brown and white plumage of class Carolina Wren",
+        "Eye": "a photo of a dark and round eye of class Carolina Wren",
+        "Legs/Feet": "a photo of strong and sturdy legs/feet of class Carolina Wren"
+    },
+    "Mangrove Cuckoo": {
+        "Beak": "a photo of a long and slightly down-curved beak of class Mangrove Cuckoo",
+        "Plumage": "a photo of a grayish-brown and buff-colored plumage of class Mangrove Cuckoo",
+        "Eye": "a photo of a bright and round eye of class Mangrove Cuckoo",
+        "Legs/Feet": "a photo of strong and agile legs/feet of class Mangrove Cuckoo"
+    },
+    "Groove billed Ani": {
+        "Beak": "a photo of a thick and groove-billed beak of class Groove billed Ani",
+        "Plumage": "a photo of a glossy black plumage of class Groove billed Ani",
+        "Eye": "a photo of a dark and intense eye of class Groove billed Ani",
+        "Legs/Feet": "a photo of strong and scaly legs/feet of class Groove billed Ani"
+    },
+    "Mallard": {
+        "Beak": "a photo of a broad and flat beak of class Mallard",
+        "Plumage": "a photo of a vibrant green and brown plumage of class Mallard",
+        "Eye": "a photo of a bright and alert eye of class Mallard",
+        "Legs/Feet": "a photo of webbed and orange legs/feet of class Mallard"
+    },
+    "Downy Woodpecker": {
+        "Beak": "a photo of a short and chisel-like beak of class Downy Woodpecker",
+        "Plumage": "a photo of a black and white striped plumage of class Downy Woodpecker",
+        "Eye": "a photo of a sharp and round eye of class Downy Woodpecker",
+        "Legs/Feet": "a photo of strong and clawed legs/feet of class Downy Woodpecker"
+    },
+    "Common Yellowthroat": {
+        "Beak": "a photo of a small and pointed beak of class Common Yellowthroat",
+        "Plumage": "a photo of a bright yellow and olive-green plumage of class Common Yellowthroat",
+        "Eye": "a photo of a dark and round eye of class Common Yellowthroat",
+        "Legs/Feet": "a photo of slender and agile legs/feet of class Common Yellowthroat"
+    },
+    "Gray crowned Rosy Finch": {
+        "Beak": "a photo of a short and conical beak of class Gray crowned Rosy Finch",
+        "Plumage": "a photo of a gray-crowned and rosy-brown plumage of class Gray crowned Rosy Finch",
+        "Eye": "a photo of a dark and round eye of class Gray crowned Rosy Finch",
+        "Legs/Feet": "a photo of strong and sturdy legs/feet of class Gray crowned Rosy Finch"
+    },
+    "Worm eating Warbler": {
+        "Beak": "a photo of a slender and pointed beak of class Worm eating Warbler",
+        "Plumage": "a photo of an olive-brown and buff-colored plumage of class Worm eating Warbler",
+        "Eye": "a photo of a dark and round eye of class Worm eating Warbler",
+        "Legs/Feet": "a photo of delicate and agile legs/feet of class Worm eating Warbler"
+    },
+    "Caspian Tern": {
+        "Beak": "a photo of a sharp and pointed beak of class Caspian Tern",
+        "Plumage": "a photo of white and gray plumage of class Caspian Tern",
+        "Eye": "a photo of a dark and alert eye of class Caspian Tern",
+        "Legs/Feet": "a photo of short and webbed legs/feet of class Caspian Tern"
+    },
+    "Chestnut sided Warbler": {
+        "Beak": "a photo of a small and slender beak of class Chestnut sided Warbler",
+        "Plumage": "a photo of colorful and streaked plumage of class Chestnut sided Warbler",
+        "Eye": "a photo of a bright and expressive eye of class Chestnut sided Warbler",
+        "Legs/Feet": "a photo of thin and agile legs/feet of class Chestnut sided Warbler"
+    },
+    "Louisiana Waterthrush": {
+        "Beak": "a photo of a narrow and curved beak of class Louisiana Waterthrush",
+        "Plumage": "a photo of brown and white plumage of class Louisiana Waterthrush",
+        "Eye": "a photo of a sharp and focused eye of class Louisiana Waterthrush",
+        "Legs/Feet": "a photo of long and sturdy legs/feet of class Louisiana Waterthrush"
+    },
+    "Fish Crow": {
+        "Beak": "a photo of a strong and slightly curved beak of class Fish Crow",
+        "Plumage": "a photo of glossy black plumage of class Fish Crow",
+        "Eye": "a photo of a dark and intelligent eye of class Fish Crow",
+        "Legs/Feet": "a photo of robust and clawed legs/feet of class Fish Crow"
+    },
+    "Chuck will Widow": {
+        "Beak": "a photo of a wide and short beak of class Chuck will Widow",
+        "Plumage": "a photo of mottled brown and gray plumage of class Chuck will Widow",
+        "Eye": "a photo of a large and nocturnal eye of class Chuck will Widow",
+        "Legs/Feet": "a photo of short and feathered legs/feet of class Chuck will Widow"
+    },
+    "Geococcyx": {
+        "Beak": "a photo of a long and pointed beak of class Geococcyx",
+        "Plumage": "a photo of streaked brown and white plumage of class Geococcyx",
+        "Eye": "a photo of a sharp and keen eye of class Geococcyx",
+        "Legs/Feet": "a photo of strong and fast-running legs/feet of class Geococcyx"
+    },
+    "Field Sparrow": {
+        "Beak": "a photo of a small and conical beak of class Field Sparrow",
+        "Plumage": "a photo of soft brown and gray plumage of class Field Sparrow",
+        "Eye": "a photo of a gentle and round eye of class Field Sparrow",
+        "Legs/Feet": "a photo of delicate and nimble legs/feet of class Field Sparrow"
+    },
+    "Horned Lark": {
+        "Beak": "a photo of a short and stout beak of class Horned Lark",
+        "Plumage": "a photo of brown and yellow plumage of class Horned Lark",
+        "Eye": "a photo of a bright and alert eye of class Horned Lark",
+        "Legs/Feet": "a photo of strong and ground-dwelling legs/feet of class Horned Lark"
+    },
+    "Red eyed Vireo": {
+        "Beak": "a photo of a small, pointed beak of class Red eyed Vireo",
+        "Plumage": "a photo of a greenish-olive plumage of class Red eyed Vireo",
+        "Eye": "a photo of a striking red eye of class Red eyed Vireo",
+        "Legs/Feet": "a photo of dark gray legs/feet of class Red eyed Vireo"
+    },
+    "Red legged Kittiwake": {
+        "Beak": "a photo of a slender, yellow beak of class Red legged Kittiwake",
+        "Plumage": "a photo of a white and gray plumage of class Red legged Kittiwake",
+        "Eye": "a photo of a dark brown eye of class Red legged Kittiwake",
+        "Legs/Feet": "a photo of bright red legs/feet of class Red legged Kittiwake"
+    },
+    "Elegant Tern": {
+        "Beak": "a photo of a long, slender orange beak of class Elegant Tern",
+        "Plumage": "a photo of a pale gray and white plumage of class Elegant Tern",
+        "Eye": "a photo of a small, dark eye of class Elegant Tern",
+        "Legs/Feet": "a photo of black legs/feet of class Elegant Tern"
+    },
+    "Cape Glossy Starling": {
+        "Beak": "a photo of a short, curved beak of class Cape Glossy Starling",
+        "Plumage": "a photo of a glossy, iridescent black plumage of class Cape Glossy Starling",
+        "Eye": "a photo of a bright yellow eye of class Cape Glossy Starling",
+        "Legs/Feet": "a photo of black legs/feet of class Cape Glossy Starling"
+    },
+    "Bronzed Cowbird": {
+        "Beak": "a photo of a short, thick beak of class Bronzed Cowbird",
+        "Plumage": "a photo of a glossy, bronzy-black plumage of class Bronzed Cowbird",
+        "Eye": "a photo of a dark brown eye of class Bronzed Cowbird",
+        "Legs/Feet": "a photo of black legs/feet of class Bronzed Cowbird"
+    },
+    "Harris Sparrow": {
+        "Beak": "a photo of a short, conical beak of class Harris Sparrow",
+        "Plumage": "a photo of a brown and white plumage of class Harris Sparrow",
+        "Eye": "a photo of a dark brown eye of class Harris Sparrow",
+        "Legs/Feet": "a photo of pinkish legs/feet of class Harris Sparrow"
+    },
+    "Hooded Warbler": {
+        "Beak": "a photo of a small, pointed beak of class Hooded Warbler",
+        "Plumage": "a photo of a bright yellow and olive-green plumage of class Hooded Warbler",
+        "Eye": "a photo of a dark brown eye of class Hooded Warbler",
+        "Legs/Feet": "a photo of pinkish legs/feet of class Hooded Warbler"
+    },
+    "Wilson Warbler": {
+        "Beak": "a photo of a small, pointed beak of class Wilson Warbler",
+        "Plumage": "a photo of a bright yellow and olive-green plumage of class Wilson Warbler",
+        "Eye": "a photo of a dark brown eye of class Wilson Warbler",
+        "Legs/Feet": "a photo of pinkish legs/feet of class Wilson Warbler"
+    },
+    "Black Tern": {
+        "Beak": "a photo of a slender and pointed Beak of class Black Tern",
+        "Plumage": "a photo of dark and sleek Plumage of class Black Tern",
+        "Eye": "a photo of a small and dark Eye of class Black Tern",
+        "Legs/Feet": "a photo of short and webbed Legs/Feet of class Black Tern"
+    },
+    "Herring Gull": {
+        "Beak": "a photo of a strong and slightly hooked Beak of class Herring Gull",
+        "Plumage": "a photo of white and grey Plumage of class Herring Gull",
+        "Eye": "a photo of a medium-sized and yellow-ringed Eye of class Herring Gull",
+        "Legs/Feet": "a photo of long and pale pink Legs/Feet of class Herring Gull"
+    },
+    "Ring billed Gull": {
+        "Beak": "a photo of a yellow Beak with a black ring of class Ring billed Gull",
+        "Plumage": "a photo of white and light grey Plumage of class Ring billed Gull",
+        "Eye": "a photo of a dark Eye with a white ring of class Ring billed Gull",
+        "Legs/Feet": "a photo of yellow Legs/Feet of class Ring billed Gull"
+    },
+    "American Crow": {
+        "Beak": "a photo of a thick and black Beak of class American Crow",
+        "Plumage": "a photo of entirely black Plumage of class American Crow",
+        "Eye": "a photo of a dark and glossy Eye of class American Crow",
+        "Legs/Feet": "a photo of black and strong Legs/Feet of class American Crow"
+    },
+    "Northern Flicker": {
+        "Beak": "a photo of a slightly curved and pointed Beak of class Northern Flicker",
+        "Plumage": "a photo of brown and black-barred Plumage of class Northern Flicker",
+        "Eye": "a photo of a dark and round Eye of class Northern Flicker",
+        "Legs/Feet": "a photo of strong and grey Legs/Feet of class Northern Flicker"
+    },
+    "Green tailed Towhee": {
+        "Beak": "a photo of a short and conical Beak of class Green tailed Towhee",
+        "Plumage": "a photo of olive-green and brown Plumage of class Green tailed Towhee",
+        "Eye": "a photo of a dark and round Eye of class Green tailed Towhee",
+        "Legs/Feet": "a photo of pinkish-brown Legs/Feet of class Green tailed Towhee"
+    },
+    "Pacific Loon": {
+        "Beak": "a photo of a straight and pointed Beak of class Pacific Loon",
+        "Plumage": "a photo of black and white Plumage of class Pacific Loon",
+        "Eye": "a photo of a red and round Eye of class Pacific Loon",
+        "Legs/Feet": "a photo of black and webbed Legs/Feet of class Pacific Loon"
+    },
+    "White breasted Kingfisher": {
+        "Beak": "a photo of a long and pointed Beak of class White breasted Kingfisher",
+        "Plumage": "a photo of white and blue Plumage of class White breasted Kingfisher",
+        "Eye": "a photo of a dark and round Eye of class White breasted Kingfisher",
+        "Legs/Feet": "a photo of short and red Legs/Feet of class White breasted Kingfisher"
+    },
+    "Western Grebe": {
+        "Beak": "a photo of a slender and pointed beak of class Western Grebe",
+        "Plumage": "a photo of a distinctive black and white plumage of class Western Grebe",
+        "Eye": "a photo of a bright red eye of class Western Grebe",
+        "Legs/Feet": "a photo of lobed feet adapted for swimming of class Western Grebe"
+    },
+    "Pomarine Jaeger": {
+        "Beak": "a photo of a hooked and robust beak of class Pomarine Jaeger",
+        "Plumage": "a photo of a dark brown and white plumage of class Pomarine Jaeger",
+        "Eye": "a photo of a sharp and dark eye of class Pomarine Jaeger",
+        "Legs/Feet": "a photo of webbed feet designed for flying and swimming of class Pomarine Jaeger"
+    },
+    "Artic Tern": {
+        "Beak": "a photo of a slender and pointed red beak of class Artic Tern",
+        "Plumage": "a photo of a light gray and white plumage of class Artic Tern",
+        "Eye": "a photo of a small and dark eye of class Artic Tern",
+        "Legs/Feet": "a photo of short and webbed feet for swimming of class Artic Tern"
+    },
+    "Ovenbird": {
+        "Beak": "a photo of a short and stout beak of class Ovenbird",
+        "Plumage": "a photo of a olive-brown plumage with bold streaks of class Ovenbird",
+        "Eye": "a photo of a dark and round eye of class Ovenbird",
+        "Legs/Feet": "a photo of strong and pale legs for hopping on the ground of class Ovenbird"
+    },
+    "Least Tern": {
+        "Beak": "a photo of a small and pointed yellow beak of class Least Tern",
+        "Plumage": "a photo of a light gray and white plumage of class Least Tern",
+        "Eye": "a photo of a black eye with a white ring of class Least Tern",
+        "Legs/Feet": "a photo of short and bright orange legs of class Least Tern"
+    },
+    "Dark eyed Junco": {
+        "Beak": "a photo of a small and conical pinkish beak of class Dark eyed Junco",
+        "Plumage": "a photo of a dark gray or brown plumage with white outer tail feathers of class Dark eyed Junco",
+        "Eye": "a photo of a dark and prominent eye of class Dark eyed Junco",
+        "Legs/Feet": "a photo of slender and pale legs for perching of class Dark eyed Junco"
+    },
+    "Brewer Sparrow": {
+        "Beak": "a photo of a small and pointed beak of class Brewer Sparrow",
+        "Plumage": "a photo of a streaky brown and gray plumage of class Brewer Sparrow",
+        "Eye": "a photo of a small and dark eye of class Brewer Sparrow",
+        "Legs/Feet": "a photo of thin and pale legs for perching of class Brewer Sparrow"
+    },
+    "Boat tailed Grackle": {
+        "Beak": "a photo of a long and pointed beak of class Boat tailed Grackle",
+        "Plumage": "a photo of a glossy black plumage with iridescent sheen of class Boat tailed Grackle",
+        "Eye": "a photo of a bright yellow eye of class Boat tailed Grackle",
+        "Legs/Feet": "a photo of strong and dark legs for walking and perching of class Boat tailed Grackle"
+    },
+    "Rock Wren": {
+        "Beak": "a photo of a slender and pointed beak of class Rock Wren",
+        "Plumage": "a photo of a mottled brown and gray plumage of class Rock Wren",
+        "Eye": "a photo of a small and dark eye of class Rock Wren",
+        "Legs/Feet": "a photo of strong and brown legs/feet of class Rock Wren"
+    },
+    "Scarlet Tanager": {
+        "Beak": "a photo of a short and conical beak of class Scarlet Tanager",
+        "Plumage": "a photo of a bright red plumage with black wings of class Scarlet Tanager",
+        "Eye": "a photo of a dark and round eye of class Scarlet Tanager",
+        "Legs/Feet": "a photo of small and gray legs/feet of class Scarlet Tanager"
+    },
+    "Slaty backed Gull": {
+        "Beak": "a photo of a thick and slightly hooked beak of class Slaty backed Gull",
+        "Plumage": "a photo of a slate-gray back and wings with white underparts of class Slaty backed Gull",
+        "Eye": "a photo of a pale yellow eye of class Slaty backed Gull",
+        "Legs/Feet": "a photo of long and pink legs/feet of class Slaty backed Gull"
+    },
+    "Purple Finch": {
+        "Beak": "a photo of a short and conical beak of class Purple Finch",
+        "Plumage": "a photo of a raspberry-red plumage with brown streaking of class Purple Finch",
+        "Eye": "a photo of a dark and round eye of class Purple Finch",
+        "Legs/Feet": "a photo of small and brown legs/feet of class Purple Finch"
+    },
+    "Eastern Towhee": {
+        "Beak": "a photo of a short and stout beak of class Eastern Towhee",
+        "Plumage": "a photo of a black upper body with white underparts and reddish sides of class Eastern Towhee",
+        "Eye": "a photo of a dark and round eye of class Eastern Towhee",
+        "Legs/Feet": "a photo of strong and brown legs/feet of class Eastern Towhee"
+    },
+    "Brown Creeper": {
+        "Beak": "a photo of a slender and slightly curved beak of class Brown Creeper",
+        "Plumage": "a photo of a brown and white streaked plumage of class Brown Creeper",
+        "Eye": "a photo of a small and dark eye of class Brown Creeper",
+        "Legs/Feet": "a photo of short and brown legs/feet of class Brown Creeper"
+    },
+    "White Pelican": {
+        "Beak": "a photo of a long and flat beak of class White Pelican",
+        "Plumage": "a photo of a white plumage with black flight feathers of class White Pelican",
+        "Eye": "a photo of a pale yellow eye of class White Pelican",
+        "Legs/Feet": "a photo of short and orange legs/feet of class White Pelican"
+    },
+    "Black footed Albatross": {
+        "Beak": "a photo of a large and hooked beak of class Black footed Albatross",
+        "Plumage": "a photo of a dark brown plumage with white underparts of class Black footed Albatross",
+        "Eye": "a photo of a dark and round eye of class Black footed Albatross",
+        "Legs/Feet": "a photo of large and webbed black legs/feet of class Black footed Albatross"
+    },
+    "Barn Swallow": {
+        "Beak": "a photo of a small and pointed Beak of class Barn Swallow",
+        "Plumage": "a photo of a sleek blue-black and white Plumage of class Barn Swallow",
+        "Eye": "a photo of a dark and round Eye of class Barn Swallow",
+        "Legs/Feet": "a photo of short and strong Legs/Feet of class Barn Swallow"
+    },
+    "Chipping Sparrow": {
+        "Beak": "a photo of a small and conical Beak of class Chipping Sparrow",
+        "Plumage": "a photo of a brown and streaked Plumage of class Chipping Sparrow",
+        "Eye": "a photo of a dark and sharp Eye of class Chipping Sparrow",
+        "Legs/Feet": "a photo of slender and pale Legs/Feet of class Chipping Sparrow"
+    },
+    "Red headed Woodpecker": {
+        "Beak": "a photo of a strong and chisel-like Beak of class Red headed Woodpecker",
+        "Plumage": "a photo of a striking red and black Plumage of class Red headed Woodpecker",
+        "Eye": "a photo of a bright and alert Eye of class Red headed Woodpecker",
+        "Legs/Feet": "a photo of sturdy and gripping Legs/Feet of class Red headed Woodpecker"
+    },
+    "Baltimore Oriole": {
+        "Beak": "a photo of a sharp and pointed Beak of class Baltimore Oriole",
+        "Plumage": "a photo of a vibrant orange and black Plumage of class Baltimore Oriole",
+        "Eye": "a photo of a bright and keen Eye of class Baltimore Oriole",
+        "Legs/Feet": "a photo of strong and agile Legs/Feet of class Baltimore Oriole"
+    },
+    "Red bellied Woodpecker": {
+        "Beak": "a photo of a sturdy and chisel-like Beak of class Red bellied Woodpecker",
+        "Plumage": "a photo of a black and white with red tinge Plumage of class Red bellied Woodpecker",
+        "Eye": "a photo of a sharp and focused Eye of class Red bellied Woodpecker",
+        "Legs/Feet": "a photo of strong and clinging Legs/Feet of class Red bellied Woodpecker"
+    },
+    "Tennessee Warbler": {
+        "Beak": "a photo of a small and pointed Beak of class Tennessee Warbler",
+        "Plumage": "a photo of a greenish-yellow and white Plumage of class Tennessee Warbler",
+        "Eye": "a photo of a dark and round Eye of class Tennessee Warbler",
+        "Legs/Feet": "a photo of delicate and thin Legs/Feet of class Tennessee Warbler"
+    },
+    "Spotted Catbird": {
+        "Beak": "a photo of a medium and curved Beak of class Spotted Catbird",
+        "Plumage": "a photo of a gray with black spots Plumage of class Spotted Catbird",
+        "Eye": "a photo of a dark and round Eye of class Spotted Catbird",
+        "Legs/Feet": "a photo of strong and clawed Legs/Feet of class Spotted Catbird"
+    },
+    "Yellow throated Vireo": {
+        "Beak": "a photo of a short and hooked Beak of class Yellow throated Vireo",
+        "Plumage": "a photo of a yellow and olive Plumage of class Yellow throated Vireo",
+        "Eye": "a photo of a bright and keen Eye of class Yellow throated Vireo",
+        "Legs/Feet": "a photo of strong and gripping Legs/Feet of class Yellow throated Vireo"
+    },
+    "Bohemian Waxwing": {
+        "Beak": "a photo of a small and pointed beak of class Bohemian Waxwing",
+        "Plumage": "a photo of a soft and silky plumage of class Bohemian Waxwing",
+        "Eye": "a photo of a bright and alert eye of class Bohemian Waxwing",
+        "Legs/Feet": "a photo of slender and agile legs/feet of class Bohemian Waxwing"
+    },
+    "Cape May Warbler": {
+        "Beak": "a photo of a thin and delicate beak of class Cape May Warbler",
+        "Plumage": "a photo of a colorful and patterned plumage of class Cape May Warbler",
+        "Eye": "a photo of a sharp and focused eye of class Cape May Warbler",
+        "Legs/Feet": "a photo of small and nimble legs/feet of class Cape May Warbler"
+    },
+    "Pine Warbler": {
+        "Beak": "a photo of a short and sturdy beak of class Pine Warbler",
+        "Plumage": "a photo of a subdued and mottled plumage of class Pine Warbler",
+        "Eye": "a photo of a keen and observant eye of class Pine Warbler",
+        "Legs/Feet": "a photo of strong and sturdy legs/feet of class Pine Warbler"
+    },
+    "Fox Sparrow": {
+        "Beak": "a photo of a thick and conical beak of class Fox Sparrow",
+        "Plumage": "a photo of a rich and earthy plumage of class Fox Sparrow",
+        "Eye": "a photo of a watchful and cautious eye of class Fox Sparrow",
+        "Legs/Feet": "a photo of robust and powerful legs/feet of class Fox Sparrow"
+    },
+    "Nashville Warbler": {
+        "Beak": "a photo of a fine and pointed beak of class Nashville Warbler",
+        "Plumage": "a photo of a bright and vibrant plumage of class Nashville Warbler",
+        "Eye": "a photo of a clear and attentive eye of class Nashville Warbler",
+        "Legs/Feet": "a photo of slender and quick legs/feet of class Nashville Warbler"
+    },
+    "Sage Thrasher": {
+        "Beak": "a photo of a slightly curved and sharp beak of class Sage Thrasher",
+        "Plumage": "a photo of a subtle and streaked plumage of class Sage Thrasher",
+        "Eye": "a photo of a sharp and vigilant eye of class Sage Thrasher",
+        "Legs/Feet": "a photo of strong and adapted legs/feet of class Sage Thrasher"
+    },
+    "Anna Hummingbird": {
+        "Beak": "a photo of a long and slender beak of class Anna Hummingbird",
+        "Plumage": "a photo of a iridescent and shimmering plumage of class Anna Hummingbird",
+        "Eye": "a photo of a tiny and bright eye of class Anna Hummingbird",
+        "Legs/Feet": "a photo of small and delicate legs/feet of class Anna Hummingbird"
+    },
+    "Black capped Vireo": {
+        "Beak": "a photo of a short and hooked beak of class Black capped Vireo",
+        "Plumage": "a photo of a contrasting and distinctive plumage of class Black capped Vireo",
+        "Eye": "a photo of a clear and attentive eye of class Black capped Vireo",
+        "Legs/Feet": "a photo of small and agile legs/feet of class Black capped Vireo"
+    },
+    "Least Flycatcher": {
+        "Beak": "a photo of a small, pointed Beak of class Least Flycatcher",
+        "Plumage": "a photo of olive-green and white Plumage of class Least Flycatcher",
+        "Eye": "a photo of a dark, round Eye of class Least Flycatcher",
+        "Legs/Feet": "a photo of short, black Legs/Feet of class Least Flycatcher"
+    },
+    "White throated Sparrow": {
+        "Beak": "a photo of a conical, pinkish Beak of class White throated Sparrow",
+        "Plumage": "a photo of brown and white Plumage of class White throated Sparrow",
+        "Eye": "a photo of a dark, round Eye of class White throated Sparrow",
+        "Legs/Feet": "a photo of pale pink Legs/Feet of class White throated Sparrow"
+    },
+    "Pelagic Cormorant": {
+        "Beak": "a photo of a hooked, dark Beak of class Pelagic Cormorant",
+        "Plumage": "a photo of black and iridescent Plumage of class Pelagic Cormorant",
+        "Eye": "a photo of a bright blue Eye of class Pelagic Cormorant",
+        "Legs/Feet": "a photo of webbed, black Legs/Feet of class Pelagic Cormorant"
+    },
+    "Green Jay": {
+        "Beak": "a photo of a stout, black Beak of class Green Jay",
+        "Plumage": "a photo of bright green and yellow Plumage of class Green Jay",
+        "Eye": "a photo of a dark, almond-shaped Eye of class Green Jay",
+        "Legs/Feet": "a photo of strong, black Legs/Feet of class Green Jay"
+    },
+    "Rusty Blackbird": {
+        "Beak": "a photo of a slender, black Beak of class Rusty Blackbird",
+        "Plumage": "a photo of rust-colored and black Plumage of class Rusty Blackbird",
+        "Eye": "a photo of a dark, round Eye of class Rusty Blackbird",
+        "Legs/Feet": "a photo of black Legs/Feet of class Rusty Blackbird"
+    },
+    "Black billed Cuckoo": {
+        "Beak": "a photo of a long, black Beak of class Black billed Cuckoo",
+        "Plumage": "a photo of brown and white Plumage of class Black billed Cuckoo",
+        "Eye": "a photo of a yellow Eye of class Black billed Cuckoo",
+        "Legs/Feet": "a photo of short, grey Legs/Feet of class Black billed Cuckoo"
+    },
+    "Pileated Woodpecker": {
+        "Beak": "a photo of a strong, chisel-like Beak of class Pileated Woodpecker",
+        "Plumage": "a photo of black and white Plumage of class Pileated Woodpecker",
+        "Eye": "a photo of a dark, round Eye of class Pileated Woodpecker",
+        "Legs/Feet": "a photo of strong, black Legs/Feet of class Pileated Woodpecker"
+    },
+    "Vermilion Flycatcher": {
+        "Beak": "a photo of a small, black Beak of class Vermilion Flycatcher",
+        "Plumage": "a photo of bright red and black Plumage of class Vermilion Flycatcher",
+        "Eye": "a photo of a dark, round Eye of class Vermilion Flycatcher",
+        "Legs/Feet": "a photo of short, black Legs/Feet of class Vermilion Flycatcher"
+    },
+    "Horned Grebe": {
+        "Beak": "a photo of a slender and pointed beak of class Horned Grebe",
+        "Plumage": "a photo of a dark and textured plumage of class Horned Grebe",
+        "Eye": "a photo of a bright and clear eye of class Horned Grebe",
+        "Legs/Feet": "a photo of webbed and flattened legs/feet of class Horned Grebe"
+    },
+    "Black throated Sparrow": {
+        "Beak": "a photo of a short and conical beak of class Black throated Sparrow",
+        "Plumage": "a photo of a grey and streaked plumage of class Black throated Sparrow",
+        "Eye": "a photo of a dark and rounded eye of class Black throated Sparrow",
+        "Legs/Feet": "a photo of small and clawed legs/feet of class Black throated Sparrow"
+    },
+    "White eyed Vireo": {
+        "Beak": "a photo of a small and hooked beak of class White eyed Vireo",
+        "Plumage": "a photo of a greenish and yellow plumage of class White eyed Vireo",
+        "Eye": "a photo of a distinctive white eye of class White eyed Vireo",
+        "Legs/Feet": "a photo of slender and scaled legs/feet of class White eyed Vireo"
+    },
+    "Hooded Merganser": {
+        "Beak": "a photo of a narrow and serrated beak of class Hooded Merganser",
+        "Plumage": "a photo of a black and white plumage of class Hooded Merganser",
+        "Eye": "a photo of a bright and yellow eye of class Hooded Merganser",
+        "Legs/Feet": "a photo of webbed and orange legs/feet of class Hooded Merganser"
+    },
+    "Savannah Sparrow": {
+        "Beak": "a photo of a short and pointed beak of class Savannah Sparrow",
+        "Plumage": "a photo of a brown and streaked plumage of class Savannah Sparrow",
+        "Eye": "a photo of a dark and almond-shaped eye of class Savannah Sparrow",
+        "Legs/Feet": "a photo of small and clawed legs/feet of class Savannah Sparrow"
+    },
+    "Orchard Oriole": {
+        "Beak": "a photo of a slender and pointed beak of class Orchard Oriole",
+        "Plumage": "a photo of a black and chestnut plumage of class Orchard Oriole",
+        "Eye": "a photo of a dark and rounded eye of class Orchard Oriole",
+        "Legs/Feet": "a photo of small and clawed legs/feet of class Orchard Oriole"
+    },
+    "Lazuli Bunting": {
+        "Beak": "a photo of a short and conical beak of class Lazuli Bunting",
+        "Plumage": "a photo of a blue and orange plumage of class Lazuli Bunting",
+        "Eye": "a photo of a dark and rounded eye of class Lazuli Bunting",
+        "Legs/Feet": "a photo of small and clawed legs/feet of class Lazuli Bunting"
+    },
+    "Swainson Warbler": {
+        "Beak": "a photo of a short and pointed beak of class Swainson Warbler",
+        "Plumage": "a photo of a brown and plain plumage of class Swainson Warbler",
+        "Eye": "a photo of a dark and rounded eye of class Swainson Warbler",
+        "Legs/Feet": "a photo of small and clawed legs/feet of class Swainson Warbler"
+    },
+    "Green Kingfisher": {
+        "Beak": "a photo of a sharp and pointed beak of class Green Kingfisher",
+        "Plumage": "a photo of vibrant green plumage of class Green Kingfisher",
+        "Eye": "a photo of a small, dark, and keen eye of class Green Kingfisher",
+        "Legs/Feet": "a photo of short and sturdy legs/feet of class Green Kingfisher"
+    },
+    "Bewick Wren": {
+        "Beak": "a photo of a slender and slightly curved beak of class Bewick Wren",
+        "Plumage": "a photo of brown and white streaked plumage of class Bewick Wren",
+        "Eye": "a photo of a small and alert eye of class Bewick Wren",
+        "Legs/Feet": "a photo of thin and agile legs/feet of class Bewick Wren"
+    },
+    "House Wren": {
+        "Beak": "a photo of a short and straight beak of class House Wren",
+        "Plumage": "a photo of plain brown plumage of class House Wren",
+        "Eye": "a photo of a small, round, and black eye of class House Wren",
+        "Legs/Feet": "a photo of small and delicate legs/feet of class House Wren"
+    },
+    "Bank Swallow": {
+        "Beak": "a photo of a small and pointed beak of class Bank Swallow",
+        "Plumage": "a photo of brown and white plumage with a distinctive breast band of class Bank Swallow",
+        "Eye": "a photo of a small and dark eye of class Bank Swallow",
+        "Legs/Feet": "a photo of short and weak legs/feet of class Bank Swallow"
+    },
+    "Gadwall": {
+        "Beak": "a photo of a broad and flat beak of class Gadwall",
+        "Plumage": "a photo of mottled brown and gray plumage of class Gadwall",
+        "Eye": "a photo of a small and dark eye of class Gadwall",
+        "Legs/Feet": "a photo of webbed and strong legs/feet of class Gadwall"
+    },
+    "Red winged Blackbird": {
+        "Beak": "a photo of a conical and sharp beak of class Red winged Blackbird",
+        "Plumage": "a photo of black plumage with red and yellow shoulder patches of class Red winged Blackbird",
+        "Eye": "a photo of a small and bright eye of class Red winged Blackbird",
+        "Legs/Feet": "a photo of strong and dark legs/feet of class Red winged Blackbird"
+    },
+    "Scott Oriole": {
+        "Beak": "a photo of a slender and slightly curved beak of class Scott Oriole",
+        "Plumage": "a photo of bright yellow and black plumage of class Scott Oriole",
+        "Eye": "a photo of a small and sharp eye of class Scott Oriole",
+        "Legs/Feet": "a photo of thin and agile legs/feet of class Scott Oriole"
+    },
+    "White crowned Sparrow": {
+        "Beak": "a photo of a short and conical beak of class White crowned Sparrow",
+        "Plumage": "a photo of brown and gray plumage with a distinctive white crown of class White crowned Sparrow",
+        "Eye": "a photo of a small and dark eye of class White crowned Sparrow",
+        "Legs/Feet": "a photo of small and sturdy legs/feet of class White crowned Sparrow"
+    },
+    "Western Meadowlark": {
+        "Beak": "a photo of a slender and pointed beak of class Western Meadowlark",
+        "Plumage": "a photo of a bright yellow with black V-shaped plumage of class Western Meadowlark",
+        "Eye": "a photo of a dark and round eye of class Western Meadowlark",
+        "Legs/Feet": "a photo of long and strong legs/feet of class Western Meadowlark"
+    },
+    "Golden winged Warbler": {
+        "Beak": "a photo of a small and pointed beak of class Golden winged Warbler",
+        "Plumage": "a photo of a bright yellow with black and white plumage of class Golden winged Warbler",
+        "Eye": "a photo of a dark and sharp eye of class Golden winged Warbler",
+        "Legs/Feet": "a photo of thin and delicate legs/feet of class Golden winged Warbler"
+    },
+    "Warbling Vireo": {
+        "Beak": "a photo of a short and slightly curved beak of class Warbling Vireo",
+        "Plumage": "a photo of a plain olive-green plumage of class Warbling Vireo",
+        "Eye": "a photo of a dark and prominent eye of class Warbling Vireo",
+        "Legs/Feet": "a photo of small and sturdy legs/feet of class Warbling Vireo"
+    },
+    "Henslow Sparrow": {
+        "Beak": "a photo of a short and conical beak of class Henslow Sparrow",
+        "Plumage": "a photo of a streaked olive-brown plumage of class Henslow Sparrow",
+        "Eye": "a photo of a dark and beady eye of class Henslow Sparrow",
+        "Legs/Feet": "a photo of short and strong legs/feet of class Henslow Sparrow"
+    },
+    "Cliff Swallow": {
+        "Beak": "a photo of a short and wide beak of class Cliff Swallow",
+        "Plumage": "a photo of a dark blue with orange and white plumage of class Cliff Swallow",
+        "Eye": "a photo of a dark and round eye of class Cliff Swallow",
+        "Legs/Feet": "a photo of short and clawed legs/feet of class Cliff Swallow"
+    },
+    "California Gull": {
+        "Beak": "a photo of a medium-sized and slightly hooked beak of class California Gull",
+        "Plumage": "a photo of a white with gray and black plumage of class California Gull",
+        "Eye": "a photo of a pale and sharp eye of class California Gull",
+        "Legs/Feet": "a photo of webbed and strong legs/feet of class California Gull"
+    },
+    "Loggerhead Shrike": {
+        "Beak": "a photo of a hooked and sharp beak of class Loggerhead Shrike",
+        "Plumage": "a photo of a gray with black and white plumage of class Loggerhead Shrike",
+        "Eye": "a photo of a dark and piercing eye of class Loggerhead Shrike",
+        "Legs/Feet": "a photo of strong and clawed legs/feet of class Loggerhead Shrike"
+    },
+    "Laysan Albatross": {
+        "Beak": "a photo of a large and hooked beak of class Laysan Albatross",
+        "Plumage": "a photo of a white with black and brown plumage of class Laysan Albatross",
+        "Eye": "a photo of a dark and large eye of class Laysan Albatross",
+        "Legs/Feet": "a photo of webbed and strong legs/feet of class Laysan Albatross"
+    },
+    "Gray Kingbird": {
+        "Beak": "a photo of a sharp and pointed Beak of class Gray Kingbird",
+        "Plumage": "a photo of a gray and white Plumage of class Gray Kingbird",
+        "Eye": "a photo of a dark and round Eye of class Gray Kingbird",
+        "Legs/Feet": "a photo of short and sturdy Legs/Feet of class Gray Kingbird"
+    },
+    "Tropical Kingbird": {
+        "Beak": "a photo of a strong and slightly curved Beak of class Tropical Kingbird",
+        "Plumage": "a photo of a yellow and olive Plumage of class Tropical Kingbird",
+        "Eye": "a photo of a dark and almond-shaped Eye of class Tropical Kingbird",
+        "Legs/Feet": "a photo of thin and agile Legs/Feet of class Tropical Kingbird"
+    },
+    "Evening Grosbeak": {
+        "Beak": "a photo of a thick and conical Beak of class Evening Grosbeak",
+        "Plumage": "a photo of a bright yellow and black Plumage of class Evening Grosbeak",
+        "Eye": "a photo of a dark and round Eye of class Evening Grosbeak",
+        "Legs/Feet": "a photo of strong and short Legs/Feet of class Evening Grosbeak"
+    },
+    "Mourning Warbler": {
+        "Beak": "a photo of a small and pointed Beak of class Mourning Warbler",
+        "Plumage": "a photo of a olive and gray Plumage of class Mourning Warbler",
+        "Eye": "a photo of a dark and round Eye of class Mourning Warbler",
+        "Legs/Feet": "a photo of slender and delicate Legs/Feet of class Mourning Warbler"
+    },
+    "Blue headed Vireo": {
+        "Beak": "a photo of a short and hooked Beak of class Blue headed Vireo",
+        "Plumage": "a photo of a blue and white Plumage of class Blue headed Vireo",
+        "Eye": "a photo of a dark and round Eye of class Blue headed Vireo",
+        "Legs/Feet": "a photo of small and sturdy Legs/Feet of class Blue headed Vireo"
+    },
+    "Rufous Hummingbird": {
+        "Beak": "a photo of a long and slender Beak of class Rufous Hummingbird",
+        "Plumage": "a photo of a rufous and green Plumage of class Rufous Hummingbird",
+        "Eye": "a photo of a dark and small Eye of class Rufous Hummingbird",
+        "Legs/Feet": "a photo of tiny and delicate Legs/Feet of class Rufous Hummingbird"
+    },
+    "Glaucous winged Gull": {
+        "Beak": "a photo of a strong and hooked Beak of class Glaucous winged Gull",
+        "Plumage": "a photo of a gray and white Plumage of class Glaucous winged Gull",
+        "Eye": "a photo of a pale and round Eye of class Glaucous winged Gull",
+        "Legs/Feet": "a photo of webbed and strong Legs/Feet of class Glaucous winged Gull"
+    },
+    "Yellow Warbler": {
+        "Beak": "a photo of a small and pointed Beak of class Yellow Warbler",
+        "Plumage": "a photo of a bright yellow Plumage of class Yellow Warbler",
+        "Eye": "a photo of a dark and round Eye of class Yellow Warbler",
+        "Legs/Feet": "a photo of slender and delicate Legs/Feet of class Yellow Warbler"
+    },
+    "Brewer Blackbird": {
+        "Beak": "a photo of a sharp and pointed beak of class Brewer Blackbird",
+        "Plumage": "a photo of a glossy black plumage of class Brewer Blackbird",
+        "Eye": "a photo of a sharp and bright eye of class Brewer Blackbird",
+        "Legs/Feet": "a photo of strong and black legs/feet of class Brewer Blackbird"
+    },
+    "Seaside Sparrow": {
+        "Beak": "a photo of a short and conical beak of class Seaside Sparrow",
+        "Plumage": "a photo of a streaked brown and gray plumage of class Seaside Sparrow",
+        "Eye": "a photo of a dark and round eye of class Seaside Sparrow",
+        "Legs/Feet": "a photo of slender and pale legs/feet of class Seaside Sparrow"
+    },
+    "American Pipit": {
+        "Beak": "a photo of a thin and pointed beak of class American Pipit",
+        "Plumage": "a photo of a streaked brown and white plumage of class American Pipit",
+        "Eye": "a photo of a small and dark eye of class American Pipit",
+        "Legs/Feet": "a photo of long and pale legs/feet of class American Pipit"
+    },
+    "Green Violetear": {
+        "Beak": "a photo of a short and slightly curved beak of class Green Violetear",
+        "Plumage": "a photo of a vibrant green plumage of class Green Violetear",
+        "Eye": "a photo of a bright and round eye of class Green Violetear",
+        "Legs/Feet": "a photo of small and dark legs/feet of class Green Violetear"
+    },
+    "Blue Grosbeak": {
+        "Beak": "a photo of a thick and conical beak of class Blue Grosbeak",
+        "Plumage": "a photo of a deep blue plumage of class Blue Grosbeak",
+        "Eye": "a photo of a bright and round eye of class Blue Grosbeak",
+        "Legs/Feet": "a photo of strong and dark legs/feet of class Blue Grosbeak"
+    },
+    "Crested Auklet": {
+        "Beak": "a photo of a short and orange beak of class Crested Auklet",
+        "Plumage": "a photo of a dark gray plumage of class Crested Auklet",
+        "Eye": "a photo of a dark and small eye of class Crested Auklet",
+        "Legs/Feet": "a photo of webbed and dark legs/feet of class Crested Auklet"
+    },
+    "American Redstart": {
+        "Beak": "a photo of a thin and pointed beak of class American Redstart",
+        "Plumage": "a photo of a black and orange plumage of class American Redstart",
+        "Eye": "a photo of a bright and round eye of class American Redstart",
+        "Legs/Feet": "a photo of slender and dark legs/feet of class American Redstart"
+    },
+    "Marsh Wren": {
+        "Beak": "a photo of a short and pointed beak of class Marsh Wren",
+        "Plumage": "a photo of a brown and streaked plumage of class Marsh Wren",
+        "Eye": "a photo of a dark and round eye of class Marsh Wren",
+        "Legs/Feet": "a photo of small and pale legs/feet of class Marsh Wren"
+    },
+    "Brown Pelican": {
+        "Beak": "a photo of a long and hooked beak of class Brown Pelican",
+        "Plumage": "a photo of a brownish-gray plumage of class Brown Pelican",
+        "Eye": "a photo of a yellow eye of class Brown Pelican",
+        "Legs/Feet": "a photo of dark webbed legs and feet of class Brown Pelican"
+    },
+    "Black and white Warbler": {
+        "Beak": "a photo of a thin and pointed beak of class Black and white Warbler",
+        "Plumage": "a photo of a black and white striped plumage of class Black and white Warbler",
+        "Eye": "a photo of a dark eye of class Black and white Warbler",
+        "Legs/Feet": "a photo of small and slender legs and feet of class Black and white Warbler"
+    },
+    "Western Wood Pewee": {
+        "Beak": "a photo of a short and broad beak of class Western Wood Pewee",
+        "Plumage": "a photo of a grayish-brown plumage of class Western Wood Pewee",
+        "Eye": "a photo of a dark eye of class Western Wood Pewee",
+        "Legs/Feet": "a photo of short and dark legs and feet of class Western Wood Pewee"
+    },
+    "Tree Swallow": {
+        "Beak": "a photo of a short and pointed beak of class Tree Swallow",
+        "Plumage": "a photo of a metallic blue-green plumage of class Tree Swallow",
+        "Eye": "a photo of a dark eye of class Tree Swallow",
+        "Legs/Feet": "a photo of small and dark legs and feet of class Tree Swallow"
+    },
+    "Pied billed Grebe": {
+        "Beak": "a photo of a short and thick beak with a distinctive black stripe of class Pied billed Grebe",
+        "Plumage": "a photo of a brownish-gray plumage of class Pied billed Grebe",
+        "Eye": "a photo of a dark eye of class Pied billed Grebe",
+        "Legs/Feet": "a photo of lobed feet with greenish hues of class Pied billed Grebe"
+    },
+    "Heermann Gull": {
+        "Beak": "a photo of a red beak with a black tip of class Heermann Gull",
+        "Plumage": "a photo of a slate-gray plumage with a white head of class Heermann Gull",
+        "Eye": "a photo of a dark eye of class Heermann Gull",
+        "Legs/Feet": "a photo of red legs and feet of class Heermann Gull"
+    },
+    "Pied Kingfisher": {
+        "Beak": "a photo of a long and pointed beak of class Pied Kingfisher",
+        "Plumage": "a photo of a black and white plumage of class Pied Kingfisher",
+        "Eye": "a photo of a dark eye of class Pied Kingfisher",
+        "Legs/Feet": "a photo of short and dark legs and feet of class Pied Kingfisher"
+    },
+    "Pine Grosbeak": {
+        "Beak": "a photo of a thick and conical beak of class Pine Grosbeak",
+        "Plumage": "a photo of a rosy-red plumage in males and yellowish plumage in females of class Pine Grosbeak",
+        "Eye": "a photo of a dark eye of class Pine Grosbeak",
+        "Legs/Feet": "a photo of short and dark legs and feet of class Pine Grosbeak"
+    },
+    "Cedar Waxwing": {
+        "Beak": "a photo of a short, black beak of class Cedar Waxwing",
+        "Plumage": "a photo of a sleek, brown and yellow plumage of class Cedar Waxwing",
+        "Eye": "a photo of a small, dark eye of class Cedar Waxwing",
+        "Legs/Feet": "a photo of short, black legs/feet of class Cedar Waxwing"
+    },
+    "Brown Thrasher": {
+        "Beak": "a photo of a long, curved beak of class Brown Thrasher",
+        "Plumage": "a photo of a brown, streaked plumage of class Brown Thrasher",
+        "Eye": "a photo of a bright, yellow eye of class Brown Thrasher",
+        "Legs/Feet": "a photo of strong, brown legs/feet of class Brown Thrasher"
+    },
+    "Baird Sparrow": {
+        "Beak": "a photo of a small, pointed beak of class Baird Sparrow",
+        "Plumage": "a photo of a streaked, brown and white plumage of class Baird Sparrow",
+        "Eye": "a photo of a round, dark eye of class Baird Sparrow",
+        "Legs/Feet": "a photo of short, pale legs/feet of class Baird Sparrow"
+    },
+    "Yellow breasted Chat": {
+        "Beak": "a photo of a stout, dark beak of class Yellow breasted Chat",
+        "Plumage": "a photo of a bright, yellow and olive plumage of class Yellow breasted Chat",
+        "Eye": "a photo of a large, dark eye of class Yellow breasted Chat",
+        "Legs/Feet": "a photo of slender, gray legs/feet of class Yellow breasted Chat"
+    },
+    "House Sparrow": {
+        "Beak": "a photo of a short, conical beak of class House Sparrow",
+        "Plumage": "a photo of a gray and brown plumage of class House Sparrow",
+        "Eye": "a photo of a small, dark eye of class House Sparrow",
+        "Legs/Feet": "a photo of short, pinkish legs/feet of class House Sparrow"
+    },
+    "Eared Grebe": {
+        "Beak": "a photo of a thin, pointed beak of class Eared Grebe",
+        "Plumage": "a photo of a black and reddish-brown plumage of class Eared Grebe",
+        "Eye": "a photo of a bright, red eye of class Eared Grebe",
+        "Legs/Feet": "a photo of lobed, black legs/feet of class Eared Grebe"
+    },
+    "Rhinoceros Auklet": {
+        "Beak": "a photo of a large, horn-like beak of class Rhinoceros Auklet",
+        "Plumage": "a photo of a dark, gray and white plumage of class Rhinoceros Auklet",
+        "Eye": "a photo of a small, dark eye of class Rhinoceros Auklet",
+        "Legs/Feet": "a photo of webbed, black legs/feet of class Rhinoceros Auklet"
+    },
+    "Song Sparrow": {
+        "Beak": "a photo of a short, conical beak of class Song Sparrow",
+        "Plumage": "a photo of a streaked, brown and gray plumage of class Song Sparrow",
+        "Eye": "a photo of a round, dark eye of class Song Sparrow",
+        "Legs/Feet": "a photo of short, pinkish legs/feet of class Song Sparrow"
+    },
+    "Clark Nutcracker": {
+        "Beak": "a photo of a sharp and pointed beak of class Clark Nutcracker",
+        "Plumage": "a photo of a grey and black plumage of class Clark Nutcracker",
+        "Eye": "a photo of a dark and round eye of class Clark Nutcracker",
+        "Legs/Feet": "a photo of strong and black legs/feet of class Clark Nutcracker"
+    },
+    "Red faced Cormorant": {
+        "Beak": "a photo of a long and hooked beak of class Red faced Cormorant",
+        "Plumage": "a photo of a dark and glossy plumage of class Red faced Cormorant",
+        "Eye": "a photo of a bright and yellow eye of class Red faced Cormorant",
+        "Legs/Feet": "a photo of webbed and black legs/feet of class Red faced Cormorant"
+    },
+    "Bobolink": {
+        "Beak": "a photo of a short and conical beak of class Bobolink",
+        "Plumage": "a photo of a black and white plumage of class Bobolink",
+        "Eye": "a photo of a dark and small eye of class Bobolink",
+        "Legs/Feet": "a photo of slender and pink legs/feet of class Bobolink"
+    },
+    "Parakeet Auklet": {
+        "Beak": "a photo of a small and colorful beak of class Parakeet Auklet",
+        "Plumage": "a photo of a dark and smooth plumage of class Parakeet Auklet",
+        "Eye": "a photo of a bright and white eye of class Parakeet Auklet",
+        "Legs/Feet": "a photo of short and webbed legs/feet of class Parakeet Auklet"
+    },
+    "Yellow bellied Flycatcher": {
+        "Beak": "a photo of a small and pointed beak of class Yellow bellied Flycatcher",
+        "Plumage": "a photo of a olive and yellow plumage of class Yellow bellied Flycatcher",
+        "Eye": "a photo of a round and dark eye of class Yellow bellied Flycatcher",
+        "Legs/Feet": "a photo of thin and black legs/feet of class Yellow bellied Flycatcher"
+    },
+    "Great Grey Shrike": {
+        "Beak": "a photo of a strong and hooked beak of class Great Grey Shrike",
+        "Plumage": "a photo of a grey and white plumage of class Great Grey Shrike",
+        "Eye": "a photo of a sharp and black eye of class Great Grey Shrike",
+        "Legs/Feet": "a photo of sturdy and black legs/feet of class Great Grey Shrike"
+    },
+    "White necked Raven": {
+        "Beak": "a photo of a thick and curved beak of class White necked Raven",
+        "Plumage": "a photo of a black and glossy plumage of class White necked Raven",
+        "Eye": "a photo of a dark and intelligent eye of class White necked Raven",
+        "Legs/Feet": "a photo of strong and black legs/feet of class White necked Raven"
+    },
+    "Acadian Flycatcher": {
+        "Beak": "a photo of a small and flat beak of class Acadian Flycatcher",
+        "Plumage": "a photo of a olive and yellow plumage of class Acadian Flycatcher",
+        "Eye": "a photo of a dark and round eye of class Acadian Flycatcher",
+        "Legs/Feet": "a photo of delicate and black legs/feet of class Acadian Flycatcher"
+    },
+    "Blue winged Warbler": {
+        "Beak": "a photo of a slender, pointed beak of class Blue winged Warbler",
+        "Plumage": "a photo of vibrant blue and yellow plumage of class Blue winged Warbler",
+        "Eye": "a photo of a small, dark eye of class Blue winged Warbler",
+        "Legs/Feet": "a photo of thin, delicate legs and feet of class Blue winged Warbler"
+    },
+    "Sayornis": {
+        "Beak": "a photo of a short, straight beak of class Sayornis",
+        "Plumage": "a photo of grayish-brown plumage of class Sayornis",
+        "Eye": "a photo of a round, dark eye of class Sayornis",
+        "Legs/Feet": "a photo of sturdy legs and feet of class Sayornis"
+    },
+    "Yellow headed Blackbird": {
+        "Beak": "a photo of a conical, pointed beak of class Yellow headed Blackbird",
+        "Plumage": "a photo of bright yellow head and black body plumage of class Yellow headed Blackbird",
+        "Eye": "a photo of a dark, glossy eye of class Yellow headed Blackbird",
+        "Legs/Feet": "a photo of strong, black legs and feet of class Yellow headed Blackbird"
+    },
+    "Florida Jay": {
+        "Beak": "a photo of a strong, slightly curved beak of class Florida Jay",
+        "Plumage": "a photo of blue and white plumage of class Florida Jay",
+        "Eye": "a photo of a sharp, intelligent eye of class Florida Jay",
+        "Legs/Feet": "a photo of robust legs and feet of class Florida Jay"
+    },
+    "White breasted Nuthatch": {
+        "Beak": "a photo of a short, straight beak of class White breasted Nuthatch",
+        "Plumage": "a photo of white breast and blue-gray back plumage of class White breasted Nuthatch",
+        "Eye": "a photo of a small, dark eye of class White breasted Nuthatch",
+        "Legs/Feet": "a photo of strong, grasping legs and feet of class White breasted Nuthatch"
+    },
+    "Ivory Gull": {
+        "Beak": "a photo of a short, stout beak of class Ivory Gull",
+        "Plumage": "a photo of pure white plumage of class Ivory Gull",
+        "Eye": "a photo of a small, dark eye of class Ivory Gull",
+        "Legs/Feet": "a photo of webbed feet and pale legs of class Ivory Gull"
+    },
+    "Clay colored Sparrow": {
+        "Beak": "a photo of a small, conical beak of class Clay colored Sparrow",
+        "Plumage": "a photo of muted brown and gray plumage of class Clay colored Sparrow",
+        "Eye": "a photo of a small, dark eye of class Clay colored Sparrow",
+        "Legs/Feet": "a photo of delicate legs and feet of class Clay colored Sparrow"
+    },
+    "Vesper Sparrow": {
+        "Beak": "a photo of a short, conical beak of class Vesper Sparrow",
+        "Plumage": "a photo of streaked brown and white plumage of class Vesper Sparrow",
+        "Eye": "a photo of a small, dark eye of class Vesper Sparrow",
+        "Legs/Feet": "a photo of slender legs and feet of class Vesper Sparrow"
+    },
+    "Olive sided Flycatcher": {
+        "Beak": "a photo of a small and pointed beak of class Olive sided Flycatcher",
+        "Plumage": "a photo of a distinct olive-sided plumage of class Olive sided Flycatcher",
+        "Eye": "a photo of a sharp and focused eye of class Olive sided Flycatcher",
+        "Legs/Feet": "a photo of slender and agile legs/feet of class Olive sided Flycatcher"
+    },
+    "Forsters Tern": {
+        "Beak": "a photo of a long and slender beak of class Forsters Tern",
+        "Plumage": "a photo of a light gray and white plumage of class Forsters Tern",
+        "Eye": "a photo of a bright and alert eye of class Forsters Tern",
+        "Legs/Feet": "a photo of webbed and strong legs/feet of class Forsters Tern"
+    },
+    "Blue Jay": {
+        "Beak": "a photo of a sturdy and slightly curved beak of class Blue Jay",
+        "Plumage": "a photo of a vibrant blue and white plumage of class Blue Jay",
+        "Eye": "a photo of a keen and watchful eye of class Blue Jay",
+        "Legs/Feet": "a photo of strong and grasping legs/feet of class Blue Jay"
+    },
+    "Frigatebird": {
+        "Beak": "a photo of a long and hooked beak of class Frigatebird",
+        "Plumage": "a photo of a dark and glossy plumage of class Frigatebird",
+        "Eye": "a photo of a sharp and piercing eye of class Frigatebird",
+        "Legs/Feet": "a photo of short and webbed legs/feet of class Frigatebird"
+    },
+    "Le Conte Sparrow": {
+        "Beak": "a photo of a small and conical beak of class Le Conte Sparrow",
+        "Plumage": "a photo of a streaked and brownish plumage of class Le Conte Sparrow",
+        "Eye": "a photo of a dark and round eye of class Le Conte Sparrow",
+        "Legs/Feet": "a photo of delicate and nimble legs/feet of class Le Conte Sparrow"
+    },
+    "Orange crowned Warbler": {
+        "Beak": "a photo of a tiny and pointed beak of class Orange crowned Warbler",
+        "Plumage": "a photo of a muted olive-green plumage of class Orange crowned Warbler",
+        "Eye": "a photo of a small and observant eye of class Orange crowned Warbler",
+        "Legs/Feet": "a photo of slender and delicate legs/feet of class Orange crowned Warbler"
+    },
+    "Palm Warbler": {
+        "Beak": "a photo of a short and pointed beak of class Palm Warbler",
+        "Plumage": "a photo of a brownish with yellow undertones plumage of class Palm Warbler",
+        "Eye": "a photo of a bright and watchful eye of class Palm Warbler",
+        "Legs/Feet": "a photo of small and agile legs/feet of class Palm Warbler"
+    },
+    "Long tailed Jaeger": {
+        "Beak": "a photo of a hooked and pointed beak of class Long tailed Jaeger",
+        "Plumage": "a photo of a dark and sleek plumage of class Long tailed Jaeger",
+        "Eye": "a photo of a focused and fierce eye of class Long tailed Jaeger",
+        "Legs/Feet": "a photo of strong and webbed legs/feet of class Long tailed Jaeger"
+    },
+    "Sooty Albatross": {
+        "Beak": "a photo of a long and curved Beak of class Sooty Albatross",
+        "Plumage": "a photo of dark and sooty Plumage of class Sooty Albatross",
+        "Eye": "a photo of a sharp and dark Eye of class Sooty Albatross",
+        "Legs/Feet": "a photo of strong and webbed Legs/Feet of class Sooty Albatross"
+    },
+    "Northern Fulmar": {
+        "Beak": "a photo of a stout and hooked Beak of class Northern Fulmar",
+        "Plumage": "a photo of a pale and mottled Plumage of class Northern Fulmar",
+        "Eye": "a photo of a round and dark Eye of class Northern Fulmar",
+        "Legs/Feet": "a photo of short and sturdy Legs/Feet of class Northern Fulmar"
+    },
+    "Summer Tanager": {
+        "Beak": "a photo of a short and pointed Beak of class Summer Tanager",
+        "Plumage": "a photo of bright red Plumage of class Summer Tanager",
+        "Eye": "a photo of a small and dark Eye of class Summer Tanager",
+        "Legs/Feet": "a photo of slender and black Legs/Feet of class Summer Tanager"
+    },
+    "Canada Warbler": {
+        "Beak": "a photo of a small and pointed Beak of class Canada Warbler",
+        "Plumage": "a photo of a yellow and gray Plumage of class Canada Warbler",
+        "Eye": "a photo of a bright and dark Eye of class Canada Warbler",
+        "Legs/Feet": "a photo of thin and pale Legs/Feet of class Canada Warbler"
+    },
+    "Shiny Cowbird": {
+        "Beak": "a photo of a short and conical Beak of class Shiny Cowbird",
+        "Plumage": "a photo of glossy black Plumage of class Shiny Cowbird",
+        "Eye": "a photo of a shiny and dark Eye of class Shiny Cowbird",
+        "Legs/Feet": "a photo of strong and black Legs/Feet of class Shiny Cowbird"
+    },
+    "Nelson Sharp tailed Sparrow": {
+        "Beak": "a photo of a small and pointed Beak of class Nelson Sharp tailed Sparrow",
+        "Plumage": "a photo of a streaked and brown Plumage of class Nelson Sharp tailed Sparrow",
+        "Eye": "a photo of a sharp and dark Eye of class Nelson Sharp tailed Sparrow",
+        "Legs/Feet": "a photo of thin and pale Legs/Feet of class Nelson Sharp tailed Sparrow"
+    },
+    "Common Tern": {
+        "Beak": "a photo of a long and pointed Beak of class Common Tern",
+        "Plumage": "a photo of a light gray and white Plumage of class Common Tern",
+        "Eye": "a photo of a sharp and dark Eye of class Common Tern",
+        "Legs/Feet": "a photo of short and webbed Legs/Feet of class Common Tern"
+    },
+    "Great Crested Flycatcher": {
+        "Beak": "a photo of a broad and hooked Beak of class Great Crested Flycatcher",
+        "Plumage": "a photo of a yellow and brown Plumage of class Great Crested Flycatcher",
+        "Eye": "a photo of a large and dark Eye of class Great Crested Flycatcher",
+        "Legs/Feet": "a photo of strong and black Legs/Feet of class Great Crested Flycatcher"
+    },
+    "Hooded Oriole": {
+        "Beak": "a photo of a slender, slightly curved beak of class Hooded Oriole",
+        "Plumage": "a photo of vibrant yellow and black plumage of class Hooded Oriole",
+        "Eye": "a photo of a dark, round eye of class Hooded Oriole",
+        "Legs/Feet": "a photo of strong, gray legs and feet of class Hooded Oriole"
+    },
+    "Kentucky Warbler": {
+        "Beak": "a photo of a short, pointed beak of class Kentucky Warbler",
+        "Plumage": "a photo of olive-green and yellow plumage of class Kentucky Warbler",
+        "Eye": "a photo of a dark, expressive eye of class Kentucky Warbler",
+        "Legs/Feet": "a photo of sturdy, pinkish legs and feet of class Kentucky Warbler"
+    },
+    "Whip poor Will": {
+        "Beak": "a photo of a short, wide beak of class Whip poor Will",
+        "Plumage": "a photo of mottled brown and gray plumage of class Whip poor Will",
+        "Eye": "a photo of a large, dark eye of class Whip poor Will",
+        "Legs/Feet": "a photo of short, brown legs and feet of class Whip poor Will"
+    },
+    "Prothonotary Warbler": {
+        "Beak": "a photo of a small, straight beak of class Prothonotary Warbler",
+        "Plumage": "a photo of bright yellow and blue-gray plumage of class Prothonotary Warbler",
+        "Eye": "a photo of a dark, beady eye of class Prothonotary Warbler",
+        "Legs/Feet": "a photo of slender, gray legs and feet of class Prothonotary Warbler"
+    },
+    "Common Raven": {
+        "Beak": "a photo of a thick, powerful beak of class Common Raven",
+        "Plumage": "a photo of glossy black plumage of class Common Raven",
+        "Eye": "a photo of a dark, intelligent eye of class Common Raven",
+        "Legs/Feet": "a photo of strong, black legs and feet of class Common Raven"
+    },
+    "Philadelphia Vireo": {
+        "Beak": "a photo of a small, hooked beak of class Philadelphia Vireo",
+        "Plumage": "a photo of olive-green and yellow plumage of class Philadelphia Vireo",
+        "Eye": "a photo of a dark, round eye of class Philadelphia Vireo",
+        "Legs/Feet": "a photo of thin, gray legs and feet of class Philadelphia Vireo"
+    },
+    "Ringed Kingfisher": {
+        "Beak": "a photo of a long, dagger-like beak of class Ringed Kingfisher",
+        "Plumage": "a photo of blue-gray and white plumage of class Ringed Kingfisher",
+        "Eye": "a photo of a dark, sharp eye of class Ringed Kingfisher",
+        "Legs/Feet": "a photo of strong, short legs and feet of class Ringed Kingfisher"
+    },
+    "American Three toed Woodpecker": {
+        "Beak": "a photo of a pointed, chisel-like beak of class American Three toed Woodpecker",
+        "Plumage": "a photo of black and white plumage of class American Three toed Woodpecker",
+        "Eye": "a photo of a dark, focused eye of class American Three toed Woodpecker",
+        "Legs/Feet": "a photo of strong, three-toed legs and feet of class American Three toed Woodpecker"
+    },
+    "Cardinal": {
+        "Beak": "a photo of a sturdy and conical beak of class Cardinal",
+        "Plumage": "a photo of vibrant red and black plumage of class Cardinal",
+        "Eye": "a photo of a bright and alert eye of class Cardinal",
+        "Legs/Feet": "a photo of strong and gripping legs/feet of class Cardinal"
+    },
+    "Magnolia Warbler": {
+        "Beak": "a photo of a slender and pointed beak of class Magnolia Warbler",
+        "Plumage": "a photo of yellow and black streaked plumage of class Magnolia Warbler",
+        "Eye": "a photo of a sharp and focused eye of class Magnolia Warbler",
+        "Legs/Feet": "a photo of delicate and nimble legs/feet of class Magnolia Warbler"
+    },
+    "Pigeon Guillemot": {
+        "Beak": "a photo of a thin and slightly curved beak of class Pigeon Guillemot",
+        "Plumage": "a photo of black and white mottled plumage of class Pigeon Guillemot",
+        "Eye": "a photo of a dark and intense eye of class Pigeon Guillemot",
+        "Legs/Feet": "a photo of webbed and powerful legs/feet of class Pigeon Guillemot"
+    },
+    "Western Gull": {
+        "Beak": "a photo of a thick and hooked beak of class Western Gull",
+        "Plumage": "a photo of white and gray plumage of class Western Gull",
+        "Eye": "a photo of a piercing and watchful eye of class Western Gull",
+        "Legs/Feet": "a photo of webbed and sturdy legs/feet of class Western Gull"
+    },
+    "Nighthawk": {
+        "Beak": "a photo of a small and wide beak of class Nighthawk",
+        "Plumage": "a photo of mottled brown and gray plumage of class Nighthawk",
+        "Eye": "a photo of a large and reflective eye of class Nighthawk",
+        "Legs/Feet": "a photo of short and weak legs/feet of class Nighthawk"
+    },
+    "Red cockaded Woodpecker": {
+        "Beak": "a photo of a strong and chisel-like beak of class Red cockaded Woodpecker",
+        "Plumage": "a photo of black and white barred plumage of class Red cockaded Woodpecker",
+        "Eye": "a photo of a keen and observant eye of class Red cockaded Woodpecker",
+        "Legs/Feet": "a photo of sturdy and clinging legs/feet of class Red cockaded Woodpecker"
+    },
+    "Yellow billed Cuckoo": {
+        "Beak": "a photo of a curved and yellow beak of class Yellow billed Cuckoo",
+        "Plumage": "a photo of brown and white streaked plumage of class Yellow billed Cuckoo",
+        "Eye": "a photo of a round and watchful eye of class Yellow billed Cuckoo",
+        "Legs/Feet": "a photo of short and grasping legs/feet of class Yellow billed Cuckoo"
+    },
+    "Myrtle Warbler": {
+        "Beak": "a photo of a small and pointed beak of class Myrtle Warbler",
+        "Plumage": "a photo of yellow and gray streaked plumage of class Myrtle Warbler",
+        "Eye": "a photo of a bright and alert eye of class Myrtle Warbler",
+        "Legs/Feet": "a photo of delicate and nimble legs/feet of class Myrtle Warbler"
+    },
+    "Horned Puffin": {
+        "Beak": "a photo of a brightly colored Beak of class Horned Puffin",
+        "Plumage": "a photo of a black and white Plumage of class Horned Puffin",
+        "Eye": "a photo of a sharp Eye of class Horned Puffin",
+        "Legs/Feet": "a photo of webbed orange Legs/Feet of class Horned Puffin"
+    },
+    "American Goldfinch": {
+        "Beak": "a photo of a small conical Beak of class American Goldfinch",
+        "Plumage": "a photo of a vibrant yellow Plumage of class American Goldfinch",
+        "Eye": "a photo of a dark Eye of class American Goldfinch",
+        "Legs/Feet": "a photo of slender pale Legs/Feet of class American Goldfinch"
+    },
+    "Ruby throated Hummingbird": {
+        "Beak": "a photo of a long slender Beak of class Ruby throated Hummingbird",
+        "Plumage": "a photo of an iridescent green Plumage of class Ruby throated Hummingbird",
+        "Eye": "a photo of a small black Eye of class Ruby throated Hummingbird",
+        "Legs/Feet": "a photo of tiny delicate Legs/Feet of class Ruby throated Hummingbird"
+    },
+    "Winter Wren": {
+        "Beak": "a photo of a short pointed Beak of class Winter Wren",
+        "Plumage": "a photo of a brown speckled Plumage of class Winter Wren",
+        "Eye": "a photo of a beady Eye of class Winter Wren",
+        "Legs/Feet": "a photo of thin pale Legs/Feet of class Winter Wren"
+    },
+    "Least Auklet": {
+        "Beak": "a photo of a stubby Beak of class Least Auklet",
+        "Plumage": "a photo of a dark gray and white Plumage of class Least Auklet",
+        "Eye": "a photo of a small black Eye of class Least Auklet",
+        "Legs/Feet": "a photo of webbed black Legs/Feet of class Least Auklet"
+    },
+    "Lincoln Sparrow": {
+        "Beak": "a photo of a conical Beak of class Lincoln Sparrow",
+        "Plumage": "a photo of a brown and streaked Plumage of class Lincoln Sparrow",
+        "Eye": "a photo of a dark Eye of class Lincoln Sparrow",
+        "Legs/Feet": "a photo of thin brown Legs/Feet of class Lincoln Sparrow"
+    },
+    "Black throated Blue Warbler": {
+        "Beak": "a photo of a small pointed Beak of class Black throated Blue Warbler",
+        "Plumage": "a photo of a blue and black Plumage of class Black throated Blue Warbler",
+        "Eye": "a photo of a bright Eye of class Black throated Blue Warbler",
+        "Legs/Feet": "a photo of slender gray Legs/Feet of class Black throated Blue Warbler"
+    },
+    "Indigo Bunting": {
+        "Beak": "a photo of a small conical Beak of class Indigo Bunting",
+        "Plumage": "a photo of a vibrant blue Plumage of class Indigo Bunting",
+        "Eye": "a photo of a dark Eye of class Indigo Bunting",
+        "Legs/Feet": "a photo of thin gray Legs/Feet of class Indigo Bunting"
+    },
+    "Belted Kingfisher": {
+        "Beak": "a photo of a sharp and pointed beak of class Belted Kingfisher",
+        "Plumage": "a photo of a blue and white banded plumage of class Belted Kingfisher",
+        "Eye": "a photo of a dark and alert eye of class Belted Kingfisher",
+        "Legs/Feet": "a photo of short and sturdy legs/feet of class Belted Kingfisher"
+    },
+    "Cerulean Warbler": {
+        "Beak": "a photo of a thin and delicate beak of class Cerulean Warbler",
+        "Plumage": "a photo of a bright blue and white plumage of class Cerulean Warbler",
+        "Eye": "a photo of a small and bright eye of class Cerulean Warbler",
+        "Legs/Feet": "a photo of slender and agile legs/feet of class Cerulean Warbler"
+    },
+    "Mockingbird": {
+        "Beak": "a photo of a slightly curved and medium-sized beak of class Mockingbird",
+        "Plumage": "a photo of a gray and white mottled plumage of class Mockingbird",
+        "Eye": "a photo of a keen and observant eye of class Mockingbird",
+        "Legs/Feet": "a photo of strong and perching legs/feet of class Mockingbird"
+    },
+    "European Goldfinch": {
+        "Beak": "a photo of a conical and pointed beak of class European Goldfinch",
+        "Plumage": "a photo of a bright yellow and black patterned plumage of class European Goldfinch",
+        "Eye": "a photo of a bright and lively eye of class European Goldfinch",
+        "Legs/Feet": "a photo of small and nimble legs/feet of class European Goldfinch"
+    },
+    "Prairie Warbler": {
+        "Beak": "a photo of a small and pointed beak of class Prairie Warbler",
+        "Plumage": "a photo of a yellow and olive-green plumage of class Prairie Warbler",
+        "Eye": "a photo of a sharp and focused eye of class Prairie Warbler",
+        "Legs/Feet": "a photo of delicate and agile legs/feet of class Prairie Warbler"
+    },
+    "Tree Sparrow": {
+        "Beak": "a photo of a short and stout beak of class Tree Sparrow",
+        "Plumage": "a photo of a brown and white streaked plumage of class Tree Sparrow",
+        "Eye": "a photo of a dark and attentive eye of class Tree Sparrow",
+        "Legs/Feet": "a photo of sturdy and perching legs/feet of class Tree Sparrow"
+    },
+    "Painted Bunting": {
+        "Beak": "a photo of a conical and sturdy beak of class Painted Bunting",
+        "Plumage": "a photo of a vibrant multicolored plumage of class Painted Bunting",
+        "Eye": "a photo of a bright and expressive eye of class Painted Bunting",
+        "Legs/Feet": "a photo of strong and perching legs/feet of class Painted Bunting"
+    },
+    "Gray Catbird": {
+        "Beak": "a photo of a slender and slightly curved beak of class Gray Catbird",
+        "Plumage": "a photo of a uniform gray plumage of class Gray Catbird",
+        "Eye": "a photo of a dark and watchful eye of class Gray Catbird",
+        "Legs/Feet": "a photo of robust and perching legs/feet of class Gray Catbird"
+    }
+}
